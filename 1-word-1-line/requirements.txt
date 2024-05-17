@@ -1,0 +1,4 @@
+pykeyboard
+time
+pyperclip
+tkinter
